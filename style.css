@@ -1,0 +1,41 @@
+body{
+    text-align:center;
+    background: rgb(216, 166, 3);
+    
+}
+#buttn1{
+    background:green;
+    width: 100px;
+    height: 35px;
+}
+
+#buttn2{
+    background:red;
+    width: 100px;
+    height: 35px;
+}
+
+button{
+    margin-top: 30px;
+}
+
+input{
+    width: 400px;
+    height: 50px;
+    font-size: 30px;
+    text-align: center;
+}
+input[type=text]:focus {
+    background-color: rgb(255, 212, 120);
+  }
+h1{
+    font-size: 50px;
+  }
+
+#bg{
+    height: 500px;
+    width: 350px;
+    display:inline-block;
+    text-align: center;
+    background-image: url("https://media.giphy.com/media/ozf26DV8FqaCpkYt6n/giphy.gif?cid=ecf05e47xdv0e2axqnnlc8vvbsnd56jo1o8bc0mrx0kt9ll5&ep=v1_gifs_search&rid=giphy.gif&ct=g");
+}
